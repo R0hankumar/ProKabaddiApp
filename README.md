@@ -1,9 +1,20 @@
 # Pro Kabaddi App
 
-A mobile application for following live Pro Kabaddi matches, player stats, and news.
+## Overview
+Pro Kabaddi App is a mobile application that provides real-time updates and news on the Pro Kabaddi League.
 
-## Installation
+## Features
+- Live score updates
+- Player profiles
+- News feed
 
+## Technologies Used
+- React Native
+- JavaScript
+- RESTful APIs
+
+## Installation Instructions
 1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+2. Navigate to the project directory:
+3. Install dependencies:
+4. Start the app:
